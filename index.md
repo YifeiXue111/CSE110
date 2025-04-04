@@ -1,12 +1,11 @@
 # Welcome to My GitHub User Page! 👋
 
 ## About Me
-Hi! I'm **[Your Name]**, a passionate programmer and [your profession/student].  
+Hi! I'm **Yifei Xue**, a passionate programmer and a UCSD student.  
 Here's a little about me:
 
-- **Programming Interests**: [Your favorite languages/technologies]
-- **Hobbies**: [Your hobbies]
-- **Fun Fact**: [Something interesting about you]
+- **Hobbies**: Flute, Manga, Surfing
+- **Fun Fact**: I am alergic to cats but I still have two cats!
 
 ## My Projects
 Here are some projects I've worked on:

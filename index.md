@@ -20,8 +20,8 @@ Here are some projects I've worked on:
 - **Frameworks**: React, Django
 
 ## Contact Me
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
-🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📧 Email: [yix049@ucsd.edu](mailto:yix049@ucsd.edu)  
+🔗 LinkedIn: [My LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yifei-xue-b4bb612a8/))  
 
 ## Code Example
 Here's a simple Python function I wrote:

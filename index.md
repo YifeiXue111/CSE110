@@ -21,7 +21,7 @@ Here are some projects I've worked on:
 
 ## Contact Me
 📧 Email: [yix049@ucsd.edu](mailto:yix049@ucsd.edu)  
-🔗 LinkedIn: [My LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yifei-xue-b4bb612a8/))  
+🔗 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/yifei-xue-b4bb612a8/)  
 
 ## Code Example
 Here's a simple Python function I wrote:

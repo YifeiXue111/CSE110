@@ -12,7 +12,8 @@
 <a name="about-me"></a>
 ## About Me
 Hi! I'm **Yifei Xue**, a passionate programmer and a UCSD student. 
-![Me](Yifei_Xue.png){width="200"}
+
+<img src="Yifei_Xue.png" alt="Me" width="100">
 
 Here's a little about me:
 
@@ -41,9 +42,9 @@ Here are some projects I've worked on:
 
 <a name="skills"></a>
 ## Skills
-- **Languages**: Python, JavaScript, Java
-- **Tools**: Git, VS Code
-- **Frameworks**: React, Django
+- [x] Python
+- [x] JavaScript
+- [ ] TypeScript (learning!)
 
 ---
 

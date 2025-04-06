@@ -16,7 +16,7 @@ Here's a little about me:
 
 - **Hobbies**: Flute, Manga, Surfing
 - **Fun Fact**: I am allergic to cats but I still have two cats!
-  ![My adorable cats](https://i.imgur.com/your-cat-image.jpg)  
+- [Fluffy's Portrait](/cats.jpg)
 
 ---
 

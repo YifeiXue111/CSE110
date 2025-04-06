@@ -16,6 +16,7 @@ Here's a little about me:
 
 - **Hobbies**: Flute, Manga, Surfing
 - **Fun Fact**: I am allergic to cats but I still have two cats!
+  ![My adorable cats](https://i.imgur.com/your-cat-image.jpg)  
 
 ---
 
@@ -52,7 +53,6 @@ Here are some projects I've worked on:
 ---
 ## Link to Screenshots
 [Link to Screenshots](/screenshots) 
----
 
 ## Code Example
 Here's a simple Python function I wrote:

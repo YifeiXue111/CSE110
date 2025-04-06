@@ -63,5 +63,4 @@ Here's a simple Python function I wrote:
 ```python
 def greet(name):
     return f"Hello, {name}!"
----
  

@@ -34,9 +34,9 @@ Here's a little about me:
 ## My Projects
 Here are some projects I've worked on:
 
-1. [Project 1](#) - Partnering with UCSD Health and Rady’s Children’s Hospital, this full-stack MERN web application was created to engage high school students in e-bike safety education. By integrating gamified quizzes, interactive videos, and a dynamic certificate system tied to parking permit eligibility, the platform not only enhanced learning outcomes but also provided administrative tools for content updates, all while following Agile methodologies.
+1. Project 1 - Partnering with UCSD Health and Rady’s Children’s Hospital, this full-stack MERN web application was created to engage high school students in e-bike safety education. By integrating gamified quizzes, interactive videos, and a dynamic certificate system tied to parking permit eligibility, the platform not only enhanced learning outcomes but also provided administrative tools for content updates, all while following Agile methodologies.
 
-2. [Project 2](#) - As part of the Yonder Dynamics UCSD Robotics Club, this project involved redesigning the interface for the Mars rover used in the University Rover Challenge. The team implemented real-time navigation features, including a compass overlay synchronized with live video feeds. Additionally, contributions to Arduino-based drill module control and integration with ROS and frontend systems supported scientific testing for life detection on Mars-like terrain.
+2. Project 2 - As part of the Yonder Dynamics UCSD Robotics Club, this project involved redesigning the interface for the Mars rover used in the University Rover Challenge. The team implemented real-time navigation features, including a compass overlay synchronized with live video feeds. Additionally, contributions to Arduino-based drill module control and integration with ROS and frontend systems supported scientific testing for life detection on Mars-like terrain.
 
 ---
 

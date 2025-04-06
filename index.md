@@ -11,7 +11,9 @@
 
 <a name="about-me"></a>
 ## About Me
-Hi! I'm **Yifei Xue**, a passionate programmer and a UCSD student.  
+Hi! I'm **Yifei Xue**, a passionate programmer and a UCSD student. 
+![Me](Yifei_Xue.png){width="200"}
+
 Here's a little about me:
 
 - **Hobbies**: Flute, Manga, Surfing

@@ -55,7 +55,8 @@ Here are some projects I've worked on:
 
 ---
 ## Link to Screenshots
-[Link to Screenshots](/screenshots) 
+[Link to VSCode UI](/screenshots/df454750af8cb6f8eb4d38add720ca3.png) 
+[Link to Command Line](/screenshots/f24b1918535de035e97a86640cee86d.png) 
 
 ## Code Example
 Here's a simple Python function I wrote:
